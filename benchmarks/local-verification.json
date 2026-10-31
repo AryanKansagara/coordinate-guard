@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "recorded_on": "2026-10-31",
+  "environment": {
+    "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+    "python": "3.12.14",
+    "compiler": "c++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0"
+  },
+  "tests_run": 14,
+  "failures": 0,
+  "errors": 0,
+  "native_cli_invocations": 415,
+  "wall_seconds_including_process_launches": 0.636675,
+  "data": "authored and seeded synthetic DNA fixtures",
+  "scope": "sequence/coordinate transformation only; not inference, biology or clinical validation",
+  "seeds": [
+    20261031,
+    31337
+  ],
+  "all_passed": true
+}
