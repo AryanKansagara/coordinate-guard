@@ -1,0 +1,5 @@
+[
+  {"sequence":"ACGT","position":2,"coordinates":"one","ref":"C","alt":"T","strand":"+","expected":"ATGT"},
+  {"sequence":"ACGT","position":4,"coordinates":"zero","ref":"-","alt":"AA","strand":"+","expected":"ACGTAA"},
+  {"sequence":"AACCGG","position":3,"coordinates":"one","ref":"CC","alt":"-","strand":"-","expected":"CCTT"}
+]
