@@ -1,0 +1,16 @@
+{
+  "company_target": "Deep Genomics",
+  "project": "Coordinate Guard",
+  "status": "native-core-prototype",
+  "language": "C++17",
+  "runtime_dependencies": [],
+  "build_command": "make",
+  "test_command": "make test",
+  "evaluation_command": "make evaluate",
+  "results_path": "benchmarks/local-verification.json",
+  "live_integration": false,
+  "deployment": false,
+  "data": "authored and seeded synthetic sequence fixtures",
+  "inference": false,
+  "limitations": ["single-edit local coordinate contract", "not VCF/HGVS compatible", "no biological or clinical validation", "no proprietary model access"]
+}
